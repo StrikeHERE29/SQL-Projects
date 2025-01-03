@@ -25,7 +25,7 @@ This project focuses on cleaning and transforming a messy IMDB dataset downloade
 
 
 ## Here is a little preview:
-
+![Before](Before.png)
  
 ## Final Outcome:  
 The dataset is now clean, consistent, and ready for more advanced analysis or visualization projects. 🎉  
