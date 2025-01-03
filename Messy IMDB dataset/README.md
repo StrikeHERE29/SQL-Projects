@@ -28,4 +28,4 @@ The dataset is now clean, consistent, and ready for more advanced analysis or vi
 For more details, check out the SQL script used for cleaning. 🚀
 
 Here is a little preview:
-![Before] 
+![Before] (Before.png)
