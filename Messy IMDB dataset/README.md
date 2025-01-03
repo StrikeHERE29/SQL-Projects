@@ -20,9 +20,12 @@ This project focuses on cleaning and transforming a messy IMDB dataset downloade
    - Converted columns like `Duration`, `Votes`, and `Income` to the appropriate data types (`INT`, `FLOAT`).  
 
 6. **Removing Irrelevant Columns**  
-   - Dropped the empty column `Column 8`, which served no purpose.  
-
+   - Dropped the empty column `Column 8`, which served no purpose.
+  
 ## Final Outcome:  
 The dataset is now clean, consistent, and ready for more advanced analysis or visualization projects. 🎉  
 
 For more details, check out the SQL script used for cleaning. 🚀
+
+Here is a little preview:
+![Before] 
