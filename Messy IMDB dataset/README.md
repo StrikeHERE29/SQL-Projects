@@ -22,10 +22,12 @@ This project focuses on cleaning and transforming a messy IMDB dataset downloade
 6. **Removing Irrelevant Columns**  
    - Dropped the empty column `Column 8`, which served no purpose.
   
+
+
+## Here is a little preview:
+
+ 
 ## Final Outcome:  
 The dataset is now clean, consistent, and ready for more advanced analysis or visualization projects. 🎉  
 
 For more details, check out the SQL script used for cleaning. 🚀
-
-Here is a little preview:
- [[([Before])](https://github.com/StrikeHERE29/SQL-Projects/blob/main/Messy%20IMDB%20dataset/Before.png)](https://github.com/StrikeHERE29/SQL-Projects/blob/main/Messy%20IMDB%20dataset/Before.png)](https://github.com/StrikeHERE29/SQL-Projects/blob/main/Messy%20IMDB%20dataset/Before.png)
